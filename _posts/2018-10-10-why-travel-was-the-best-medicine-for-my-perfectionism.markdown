@@ -3,7 +3,7 @@ layout: post
 title: Why Travel Was The Best Medicine For My Perfectionism
 date: 2018-10-10 00:00:00 +0000
 description: # Add post description (optional)
-img:  # Add image post (optional)
+img: perfectionism.jpeg # Add image post (optional)
 tags: [remote working, business] # add tag
 ---
 

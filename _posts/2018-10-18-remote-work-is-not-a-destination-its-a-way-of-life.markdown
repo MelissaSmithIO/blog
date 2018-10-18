@@ -3,7 +3,7 @@ layout: post
 title: Remote Work Is Not A Destination It's A Way Of Life
 date: 2018-10-23 00:00:00 +0000
 description: # Add post description (optional)
-img:  remotelife.jpeg # Add image post (optional)
+img:  dreamphoto.jpeg # Add image post (optional)
 tags: [remote working, business] # add tag
 ---
 

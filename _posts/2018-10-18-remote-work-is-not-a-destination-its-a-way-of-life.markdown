@@ -7,7 +7,7 @@ img:  dreamphoto.jpeg # Add image post (optional)
 tags: [remote working, business] # add tag
 ---
 
-WWhen people think of remote working the exotic comes to mind. Beaches and sunsets. Eating new foods for the first time. Wine tasting all over the world. Working from mountain tops or white sand beaches. Surfing before breakfast. Taking lots of photos and blogging to your thousands of followers all over the world. Can you do all those things while remote working? Absolutely! However, it’s important to remember that remote working isn’t about the destination it’s a way of life.
+When people think of remote working the exotic comes to mind. Beaches and sunsets. Eating new foods for the first time. Wine tasting all over the world. Working from mountain tops or white sand beaches. Surfing before breakfast. Taking lots of photos and blogging to your thousands of followers all over the world. Can you do all those things while remote working? Absolutely! However, it’s important to remember that remote working isn’t about the destination it’s a way of life.
 
 So why does travel come up so often when talking about working remotely? I believe it's because something so many people have wanted to do and had to make a conscious choice not to travel (except during their one or two weeks of vacation out of the year) and instead chose their career. Which ultimately means you've chosen to do what someone else wants of you instead of doing what you really want and even dream of doing. Now, more than ever, the thought of being able to do both, have a thriving career and travel, is driving people to turn their thoughts into actions.
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Latest In Remote Working Is The Most Needed
-date: 2018-10-25 00:12:00 +0000
+date: 2018-11-25 00:12:00 +0000
 description: # Add post description (optional)
 img:  Latestinremote.jpeg # Add image post (optional)
 tags: [remote working, business] # add tag

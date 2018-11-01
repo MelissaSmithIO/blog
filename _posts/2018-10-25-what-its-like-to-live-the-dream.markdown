@@ -10,15 +10,25 @@ tags: [remote working, business] # add tag
 I meet and speak with new people on a regular basis. If not for work, in casual conversation. Most people have no idea what I do as a remote work consultant because they assume my travels are what bring me to each destination. When I tell people that I’m not traveling to a destination to work, but that I can work from anywhere with wifi they seem confused. It goes something like this.
 
 New Acquaintance (NA): What are you doing in Argentina?
+
 Me: Enjoying myself and the country.
+
 NA: So you don’t have to work?
+
 Me: No, I work. As I said, I’m a remote work consultant. It means I can work from anywhere.
+
 NA: If you can work from anywhere why not work from home and come here to only vacation?
+
 Me: Why would I have to do only one or the other? I enjoy my work and walking out the door to visit new places, eat at new places, meet new people, and do things I can’t do in my home country.
+
 NA: You do tourist things while you’re here as well?
+
 Me: Yes. I also live like I’m at home. I eat in, exercise, and have a work routine.
+
 NA: You work, travel, and vacation at the same time? Any time you want?
+
 Me: Yes.
+
 NA: Wow, you are living the dream!
 
 In all my life I would have never imagined anyone would utter such words to me. I was talking to a business colleague last week and I let her know I just arrived in Buenos Aires. Her response, “Living the dream, girl. Living the dream!” Since I’m very comfortable with her I told her how people keep telling me this and how uncomfortable it makes me.

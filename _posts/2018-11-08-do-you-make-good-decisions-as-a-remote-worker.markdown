@@ -3,7 +3,7 @@ layout: post
 title: Do You Make Good Decisions As A Remote Worker?
 date: 2018-11-08 00:12:00 +0000
 description: # Add post description (optional)
-img:  Remotedecison.jpeg # Add image post (optional)
+img:  Remotedecision.jpeg # Add image post (optional)
 tags: [remote working, business] # add tag
 ---
 

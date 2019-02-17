@@ -10,4 +10,4 @@ tags: [remote working, business] # add tag
 
 Test
 
-<iframe src="https://www.youtube.com/watch?v=cSWRGWqbFoM&feature=youtu.be"></iframe>
+<iframe width="420" height="315" src="https://www.youtube.com/watch?v=cSWRGWqbFoM" frameborder="0" allowfullscreen></iframe>

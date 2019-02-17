@@ -1,6 +1,6 @@
 ---
 layout: post
-title: This is how to Choose if Remote Working Travel is Right for You
+title: 19 feb
 date: 2019-02-19 01:00:00 +0000
 description: # Add post description (optional)
 img:  # Add image post (optional)

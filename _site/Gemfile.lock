@@ -1,4 +1,5 @@
 GEM
+  remote: https://rubygems.org/
   specs:
     activesupport (5.1.4)
       concurrent-ruby (~> 1.0, >= 1.0.2)
@@ -81,4 +82,4 @@ DEPENDENCIES
   jemoji
 
 BUNDLED WITH
-   1.16.2
+   1.17.2

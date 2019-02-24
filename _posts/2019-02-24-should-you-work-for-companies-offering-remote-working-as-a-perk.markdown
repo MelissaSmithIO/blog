@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Should You Work For Companies Offering Remote Working As A Perk?
-date: 2019-02-23 05:00:00 +0000
+date: 2019-02-24 05:00:00 +0000
 description: # Add post description (optional)
 img: remoteperk.jpeg # Add image post (optional)
 tags: [remote working, business] # add tag

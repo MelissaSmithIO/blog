@@ -16,14 +16,14 @@ It's important that your community be personal as well. Not all remote groups ar
 
 Here are just a few of my favorite communities where you can also learn about remote positions.
 
-[Remotive.io]
-(https://remotive.io/)
-[Workfrom.co]
-(https://workfrom.co/)
-[Digital Nomads Around the World]
-(https://www.facebook.com/groups/DigitalNomadsAroundTheWorld/)
-[Outsite.co]
-(https://www.outsite.co/)
+[Remotive.io](https://remotive.io/)
+
+[Workfrom.co](https://workfrom.co/)
+
+[Digital Nomads Around the World](https://www.facebook.com/groups/DigitalNomadsAroundTheWorld/)
+
+[Outsite.co](https://www.outsite.co/)
+
 
 For those of you that are able to find positions, apply, and then hear nothing but crickets you most likely need to change how you are applying. Remember that how you applied for work even just a few years ago isn’t how you apply for work now. The best online course I’ve found, and recommend to all those who I consult with on how to get a remote job is actually free!
 
@@ -39,17 +39,13 @@ It’s also never been easier to completely change your career. It’s worth it 
 
 Here are some of my favorite online learning platforms (I receive no commission and have no affiliation with any of these):
 
-[ALISON]
-(https://alison.com/)
+[ALISON](https://alison.com/)
 
-[Udemy]
-(https://www.udemy.com/)
+[Udemy](https://www.udemy.com/)
 
-[Coursera]
-(https://www.coursera.org/)
+[Coursera](https://www.coursera.org/)
 
-[General Assembly]
-(https://dash.generalassemb.ly/)
+[General Assembly](https://dash.generalassemb.ly/)
 
 
 What if you don’t want to leave your current role? You want to be able to work remotely for your current employer. [Remote-how](https://www.remote-how.com/) has a guide just for you. Does your boss want you to become remote work certified? They got you covered as well!

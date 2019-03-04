@@ -36,9 +36,13 @@ It’s also never been easier to completely change your career. It’s worth it 
 Here are some of my favorite online learning platforms (I receive no commission and have no affiliation with any of these):
 
 [ALISON](https://alison.com/)
+
 [Udemy](https://www.udemy.com/)
+
 [Coursera](https://www.coursera.org/)
+
 [General Assembly](https://dash.generalassemb.ly/)
+
 
 What if you don’t want to leave your current role? You want to be able to work remotely for your current employer. [Remote-how](https://www.remote-how.com/) has a guide just for you. Does your boss want you to become remote work certified? They got you covered as well!
 

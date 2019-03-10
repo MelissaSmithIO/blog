@@ -20,7 +20,7 @@ We see this type of leadership all the time and yet we don’t recognize it. Whe
 
 She wasn’t just leading me remotely, she was inspiring me, encouraging me, challenging me. I haven’t had a in-person boss in years, yet if any one of my former bosses contacted me I would jump to answer the phone or read their email to know how I could assist them, remotely of course.
 
-Whether you are leading in-person teams or whether your team is fully remote good leadership never goes out of style. In this Forbes article by Kimberly Fries, she lists the [*8 Essential Qualities That Define Great Leadership*](https://www.forbes.com/sites/kimberlyfries/2018/02/08/8-essential-qualities-that-define-great-leadership/#1f1b4cc83b63)]. Take a look at number three and see if you can find the hidden gem.
+Whether you are leading in-person teams or whether your team is fully remote good leadership never goes out of style. In this Forbes article by Kimberly Fries, she lists the [*8 Essential Qualities That Define Great Leadership*](https://www.forbes.com/sites/kimberlyfries/2018/02/08/8-essential-qualities-that-define-great-leadership/#1f1b4cc83b63). Take a look at number three and see if you can find the hidden gem.
 
 So why all the rage about changing leadership styles when it comes to remote teams? It’s because when working with remote teams you have less room for error. Leadership deficiencies become magnified and the company will quickly begin moving in several directions like spokes on a wheel when there is a lack of proper direction. Things that go unnoticed in an office will never go unnoticed remotely. What should really be preached is good leadership, which is not specific to where you or your team is.
 

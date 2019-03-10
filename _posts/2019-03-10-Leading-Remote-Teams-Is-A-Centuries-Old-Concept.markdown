@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Leading Remote Teams Is A Centuries-Old Concept
-date: 2019-03-010 05:00:00 +0000
+date: 2019-03-10 05:00:00 +0000
 description: # Add post description (optional)
 img: Centuriesold.jpeg # Add image post (optional)
 tags: [remote working, business] # add tag
